@@ -5,7 +5,7 @@ class Student < User
   end 
   
   def learn(string)
-    @knowledge << ""
+    @knowledge << "Ruby framework Rails gem bundle update"
   end 
   
   def knowledge
